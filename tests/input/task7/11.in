@@ -1,0 +1,12 @@
+l 568 855 ./images/precis.bmp
+l 726 1938 ./images/f1.bmp
+ah 0
+ac 1 300 300 200 100
+cf 3 0 1 0 1 1 1 0 1 0
+af 1 0
+ap 0 1 300 300
+s 0 ./tests-out/task7/11.bmp
+df 0
+di 0
+di 0
+e
